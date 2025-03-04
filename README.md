@@ -1,2 +1,1 @@
-# aula-CdDados
-teste introdução de ciência de dados
+Lista de Exercícios - Python e JupyterLab
